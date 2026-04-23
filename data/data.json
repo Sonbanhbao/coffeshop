@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Caffe Mocha",
+    "price": 4.53,
+    "rating": 4.8,
+    "image": "https://i.imgur.com/8Km9tLL.jpg",
+    "desc": "Rich espresso with chocolate"
+  },
+  {
+    "id": 2,
+    "name": "Flat White",
+    "price": 3.53,
+    "rating": 4.7,
+    "image": "https://i.imgur.com/5tj6S7Ol.jpg",
+    "desc": "Smooth coffee blend"
+  }
+]
